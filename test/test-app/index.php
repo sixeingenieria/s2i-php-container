@@ -3,7 +3,7 @@
 	<title>Test PHP passed</title>
 </head>
 <body>
-<h1>PHP is working</h1>
+<h1>PHP is working again</h1>
 <p>
 <?php
 	phpinfo();
