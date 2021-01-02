@@ -1,3 +1,19 @@
+General information
+=================
+We are using this repository in:
+
+[OpenShift Training ES](https://sixe.es/sistemas/formacion/curso-red-hat-openshift-4-operaciones-y-administracion).
+[OpenShift Training EN](https://sixe.eu/data-center/education/course-red-hat-openshift-4-operations-and-administration).
+[OpenShift Training FR](https://sixe.be/formation/cours-red-hat-openshift-4-operations-et-administration).
+
+Don't you know how to start?
+=================
+Have a look to our Linux Training in English, Spanish and French
+
+[Linux Training ES](https://sixe.es/sistemas/formacion/linux)
+[Linux Training EN](https://sixe.eu/data-center/education/linux)
+[Linux Training FR](https://sixe.be/formation/linux)
+
 PHP Docker images
 =================
 
